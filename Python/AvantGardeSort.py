@@ -1,0 +1,1 @@
+sort = lambda list: list
